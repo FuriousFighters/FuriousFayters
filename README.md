@@ -1,0 +1,2 @@
+# FuriousFayters
+GitHub Pages
